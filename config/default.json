@@ -1,3 +1,4 @@
 {
-    "port": 5000
+    "port": 5000,
+    "mongoURI": "mongodb+srv://willy:Ovcharuk000@cluster0.uqkba.mongodb.net/pro-harvest?retryWrites=true&w=majority"
 }
