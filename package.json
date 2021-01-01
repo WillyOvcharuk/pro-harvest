@@ -1,0 +1,21 @@
+{
+  "name": "pro-harvest",
+  "version": "1.0.0",
+  "description": "site for farmers",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "build": "nodemon app.js"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "willy <ovcharukvitaly1994@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
